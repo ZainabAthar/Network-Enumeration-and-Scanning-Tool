@@ -77,7 +77,12 @@ The tool includes a built-in database of known vulnerabilities for popular servi
 - Dovecot (POP3/IMAP)
 - BIND (DNS)
 
+
 ## Notes
 
 - Make sure you have appropriate permission to scan the target network, as unauthorized network scanning may violate legal regulations or security policies.
-- This tool is designed for educational and ethical purposes. Please use it responsibly. 
+- This tool is designed for educational and ethical purposes. Please use it responsibly.
+
+![image](https://github.com/user-attachments/assets/cf3459d8-ab53-4df5-b110-764ab79829aa)
+![image](https://github.com/user-attachments/assets/cee3b222-1514-42aa-8de7-10251acb01f5)
+
